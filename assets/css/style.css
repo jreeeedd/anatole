@@ -265,11 +265,13 @@ a:active {
 
 .sidebar .logo-title {
     text-align: center;
-    padding-top: 240px;
+    padding-top: 40px;
 }
 
 .sidebar .logo-title .description {
     font-size: 14px;
+    padding: 0 130px;
+    padding-bottom: 20px;
 }
 
 .sidebar .logo-title .logo {
